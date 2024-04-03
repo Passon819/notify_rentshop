@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994470294378",
+    "project_id": "rentmotorcycle-notify",
+    "storage_bucket": "rentmotorcycle-notify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994470294378:android:5d9cb4e51b0d883455ab13",
+        "android_client_info": {
+          "package_name": "com.example.notify_rentshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994470294378-o1ragdgl9recngsgl55s2rumuv3feet7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Oom8xyb30qUm4wXrkZek81HTefcDkHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994470294378-o1ragdgl9recngsgl55s2rumuv3feet7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
